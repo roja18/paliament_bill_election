@@ -1,0 +1,20 @@
+.mycard{	
+	background-color: rgb(255, 125, 4);
+
+}
+.top{
+	text-align: justify-all;
+	align-content: right;
+}
+.top a{
+	text-decoration:none;
+}
+input[type="submit"],input[type="reset"]{
+	width: 47%;
+   }
+   form h2{
+	text-align: center;
+	margin: ;
+    box-shadow: 13px 13px 20px #32ebeb, -8px -8px 20px #65a6af;
+	
+}
